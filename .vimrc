@@ -15,3 +15,10 @@ set cursorline " highline current line
 filetype indent on " load filetype-specific indent file
 
 set wildmenu " visual autocompelete for command line
+
+execute pathogen#infect()
+
+
+
+set updatetime=250 " vim-gitgutter updatetime
+
