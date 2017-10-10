@@ -18,7 +18,7 @@ set wildmenu " visual autocompelete for command line
 
 execute pathogen#infect()
 
-
+autocmd vimenter * NERDTree
 
 set updatetime=250 " vim-gitgutter updatetime
 
