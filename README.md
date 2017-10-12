@@ -1,7 +1,7 @@
 # vim-configs
 It's simple `vim` config that I use :)
 
-
+![Screenshot](https://raw.githubusercontent.com/TheYahya/vim-configs/master/screenshot.png)
 ## Install
 Clone this repo to `~/.vim/` and make a symbol like of `.vimrc` in your home directory
 ```bash
