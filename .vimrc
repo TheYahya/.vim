@@ -27,3 +27,5 @@ autocmd vimenter * NERDTree
 
 set updatetime=250 " vim-gitgutter updatetime
 
+" Enable per-project configuration files
+set exrc
