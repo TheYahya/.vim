@@ -25,6 +25,10 @@ execute pathogen#infect()
 
 autocmd vimenter * NERDTree
 
+" in .vimrc
+" " NERDTree, Use F3 for toggle NERDTree
+nmap <silent> <F3> :NERDTreeToggle<CR>
+
 set updatetime=250 " vim-gitgutter updatetime
 
 " Enable per-project configuration files
