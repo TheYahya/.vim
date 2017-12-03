@@ -1,7 +1,7 @@
 syntax enable
 set background=dark
 let g:solarized_termcolors=256
-colorscheme solarized
+colorscheme alduin
 
 filetype plugin indent on
 " show existing tab with 2 spaces width
