@@ -3,13 +3,11 @@ set background=dark
 let g:solarized_termcolors=256
 colorscheme alduin
 
-filetype plugin indent on
-" show existing tab with 2 spaces width
-set tabstop=2
-" when indenting with '>', use 2 spaces width
-set shiftwidth=2
-" On pressing tab, insert 2 spaces
-set expandtab
+filetype plugin indent on " How existing tab with 2 spaces width
+set tabstop=2 " When indenting with '>', use 2 spaces width
+set shiftwidth=2 " On pressing tab, insert 2 spaces
+set expandtab " Insert sapces instead of tab
+set smarttab " Tab go to next indent
 
 set number " show line numbers
 
