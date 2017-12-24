@@ -1,7 +1,7 @@
 syntax enable
 set background=dark
 let g:solarized_termcolors=256
-colorscheme alduin
+colorscheme solarized
 
 filetype plugin indent on " How existing tab with 2 spaces width
 set tabstop=2 " When indenting with '>', use 2 spaces width
