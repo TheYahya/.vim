@@ -5,6 +5,8 @@ It's simple `vim` config that I use :)
 ## Install
 Clone this repo to `~/.vim/` and make a symbol like of `.vimrc` in your home directory
 ```bash
+$ cd ~
+$ git clone git@github.com:TheYahya/.vim.git
 $ ln -s ~/.vim/.vimrc ~/.vimrc
 ```
 Install dependencies
